@@ -1,0 +1,19 @@
+.cl_odd{
+    background-color: #f37b8f;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#ID1{
+    font-size: 36px;
+    color: rgb(45, 45, 218);
+}
+
+.third{
+    font-size: 24px;
+}
+
+#ID2{
+    background-color: rgb(0, 216, 0);
+    font-size: 24px;
+    font-weight: bold;
+}
